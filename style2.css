@@ -1,0 +1,36 @@
+html {
+    font-family: BaskervilleAmpersand, Helvetica, Arial, Serif;
+}
+
+body {
+    background-color: #617240;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+#titre {
+    margin-top: 30%;
+}
+
+.window {
+    padding: 12px;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin: 12px;
+    background-color: antiquewhite;
+}
+
+#icons {
+    display: none;
+}
+
+#lien {
+    display: none;
+}
+
+#taskbar {
+    display: none;
+}
